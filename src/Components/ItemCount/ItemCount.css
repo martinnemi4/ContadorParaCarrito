@@ -1,0 +1,16 @@
+.CounterSection{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+.Buttons{
+    display: flex;
+    justify-content: center;
+}
+
+
